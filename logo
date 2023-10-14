@@ -1,1 +1,15 @@
-https://github.com/Jahavi0430/campus-recruitment-system/blob/with-mern-stack/client/public/logo512.png?raw=true
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logo Example</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="My Logo">
+        </div>
+    </header>
+    <!-- Other content of your webpage -->
+</body>
+</html>
+
